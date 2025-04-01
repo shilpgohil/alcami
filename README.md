@@ -38,12 +38,12 @@ A modern, responsive e-commerce website for Alcami Elements, offering premium he
 
 ```
 ├── assets/
-│   ├── fonts/         # Custom fonts
-│   └── images/        # Images and icons
-├── Scripts/          # JavaScript files
-├── styles/           # CSS stylesheets
-├── index.html        # Main HTML file
-└── README.md         # Project documentation
+│   ├── fonts/         
+│   └── images/        
+├── Scripts/          
+├── styles/           
+├── index.html        
+└── README.md         
 ```
 
 ## 🎨 Design Features
