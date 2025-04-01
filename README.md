@@ -1,4 +1,4 @@
-# Alcami Elements - Premium Shop
+# Alcami  - Premium Shop
 
 ![Alcami Logo](./assets/images/logo1@2x.png)
 
