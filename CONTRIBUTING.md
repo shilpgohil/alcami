@@ -1,4 +1,4 @@
-# Contributing to Alcami Elements
+# Contributing to Alcami 
 
 First off, thank you for considering contributing to Alcami Elements! It's people like you that make Alcami Elements such a great tool.
 
