@@ -1,6 +1,6 @@
 # Contributing to Alcami 
 
-First off, thank you for considering contributing to Alcami Elements! It's people like you that make Alcami Elements such a great tool.
+First off, thank you for considering contributing to Alcami ! It's people like you that make Alcami such a great tool.
 
 ## Code of Conduct
 
