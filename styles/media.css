@@ -1,0 +1,598 @@
+@media only screen and (max-width: 480px) {
+
+    body{
+        padding : 0px;
+    }
+
+
+    .site-navigation {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .site-logo-container {
+        flex : 1;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        gap : 70px;
+    }
+
+    .site-hamburger {
+        display: block;
+    }
+
+    .main-nav {
+        display: none;
+        align-items: start;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    #search-bar input {
+        width: 100%;
+    }
+
+    .nav-actions{
+        display: none;
+    }
+    .btn-gold {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .frame1-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 40px;
+    }
+    .frame1-content-container {
+        align-items: center;
+    }
+    .frame1-heading {
+        font-size: 42px;
+        text-align: center;
+    }
+    .frame1-description {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .frame1-image {
+        width: 80%;
+    }
+    .frame2-content {
+        font-size: 24px;
+        padding: 35px 50px;
+        letter-spacing: -1.4px;
+    }
+    .frame3-container {
+        padding: 40px;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .frame3-image-container {
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .frame3-content-container {
+        max-width: 100%;
+        padding: 10px 15px;
+        align-items: center;
+        text-align: center;
+    }
+    .frame3-content-sub-header {
+        font-size: 28px;
+    }
+    .our-guarantee-container {
+        margin: 15px;
+        padding: 15px;
+    }
+    .our-guarantee-items {
+        flex: 1 1 100%;
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+        min-width: 100px;
+    }
+    .icon-holder {
+        width: 35px;
+        height: 35px;
+    }
+    .description-header {
+        font-size: 13px;
+    }
+    .description-content {
+        font-size: 10px;
+    }
+    
+    .product-seen-in {
+        flex-direction: column;
+        padding: 20px 10px;
+        gap: 15px;
+    }
+    .seen-in-title {
+        font-size: 16px;
+    }
+    .seen-in-logos {
+        gap: 20px;
+        margin-top: 10px;
+    }
+    .product1-display-container {
+        padding: 20px;
+    }
+    .product1-display-content {
+        font-size: 16px;
+        padding: 10px;
+    }
+    .product-title {
+        font-size: 24px;
+        text-align: center;
+    }
+    .product-description {
+        font-size: 14px;
+        text-align: center;
+    }
+    .product-ratings {
+        justify-content: center;
+    }
+    .flavour-options {
+        flex-direction: column;
+        align-items: center;
+    }
+    .subscription-kit,
+    .subscription-option-kit {
+        flex-direction: column;
+        align-items: center;
+    }
+    .subscription-kit .price,
+    .subscription-option-kit .price {
+        align-items: center;
+    }
+    .product1-extra-images-set1 img,
+    .product1-extra-images-set2 img {
+        max-width: 80px;
+    }
+
+    .specality {
+        justify-content: center;
+        gap: 10px;
+        padding: 10px;
+    }
+    .specality img {
+        max-width: 100px;
+    }
+    .hima-shilajit-container {
+        padding: 5px;
+    }
+    .hima-shilajit-container .content-container .content-title {
+        font-size: 24px;
+        line-height: 32px;
+        text-align: center;
+    }
+    .hima-shilajit-container .content-container .sub-title {
+        font-size: 10px;
+        text-align: center;
+    }
+    .hima-shilajit-container .content-benifits .benifit {
+        flex: 1 1 100%;
+        padding: 20px;
+    }
+    .subscribe-promotion-container .subscription-title {
+        font-size: 10px;
+        top: 10%;
+    }
+  .subscription-promotion,
+  .subscribe-promotion-container .subscription-title {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .subscribe-promotion-container .product-image{
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  .subscription-promotion .title {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .subscription-promotion .options {
+    width: 100%;
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  .subscription-promotion .option {
+    min-width: 100px;
+    font-size: 14px;
+    padding: 8px;
+  }
+  
+  .subscribe-now-button a {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+
+  .morning-ritual-container {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+    }
+    .morning-ritual-container .morning-ritual-content,
+    .morning-ritual-container .morning-ritual-image {
+        max-width: 100%;
+    }
+    .morning-ritual-container .morning-ritual-content .title {
+        font-size: 28px;
+        text-align: center;
+    }
+    .morning-ritual-container .morning-ritual-content .sub-title {
+        font-size: 16px;
+        text-align: center;
+    }
+    .points {
+        align-items: center;
+    }
+    .point {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .points .point .number {
+        font-size: 48px;
+    }
+    .points .point .point-title {
+        font-size: 16px;
+    }
+    .points .point .point-content {
+        font-size: 13px;
+    }
+    .morning-ritual-button {
+        justify-content: center;
+        width: 100%;
+    }
+    .morning-ritual-button img {
+        width: 8%;
+    }
+    .status-container {
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+        padding: 10px;
+    }
+    .status-container .stats {
+        flex: 1 1 100%;
+        text-align: center;
+        padding: 10px;
+    }
+    .status-container .stats .number {
+        font-size: 32px;
+    }
+    .status-container .stats .stats-title {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .why-it-container {
+        padding: 10px;
+    }
+    .why-it-container img {
+        max-width: 100%;
+    }
+
+    .from-founder-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .video-image-container img {
+        max-width: 100%;
+    }
+
+    .from-founder-content {
+        align-items: center;
+        text-align: center;
+    }
+
+    .from-founder-content .title {
+        align-items: center;
+    }
+
+    .from-founder-content .message {
+        font-size: 15px;
+    }
+
+    .from-founder-content .title .from-founder-button a {
+        font-size: 14px;
+        padding: 6px 14px;
+    }
+
+    .footer {
+        padding: 15px;
+        gap: 20px;
+        flex-direction: column;
+    }
+
+    .site-footer {
+        flex : 1;
+        gap: 20px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-navigation {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .menu-items {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .news-letter .input-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .news-letter .input-container input {
+        width: 100%;
+        margin: 10px;
+    }
+
+    .news-letter .input-container button {
+        width: 100%;
+    }
+
+    .copyright {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 1024px) {
+    .frame1-container {
+        padding: 10px 20px;
+        gap: 20px;
+    }
+    .frame1-heading {
+        font-size: 32px;
+    }
+    .frame1-description {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .frame1-content-container {
+        align-items: center;
+    }
+    .frame1-top-heading {
+        width: auto;
+        text-align: center;
+    }
+    .rating {
+        width: auto;
+        height: auto;
+        padding: 5px 10px;
+    }
+    .frame1-image {
+        width: 100%;
+    }
+    .stats-number {
+        font-size: 50px;
+    }
+    .status-name {
+        font-size: 15px;
+    }
+    .frame2-content {
+        font-size: 20px;
+        padding: 30px 30px;
+        letter-spacing: -1.2px;
+    }
+    .frame3-container {
+        padding: 30px;
+        flex-direction: column;
+        gap: 15px;
+    }
+    .frame3-image-container {
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+    .frame3-content-container {
+        max-width: 100%;
+        padding: 10px;
+        align-items: center;
+        text-align: center;
+    }
+    .frame3-content-header {
+        font-size: 22px;
+    }
+    .frame3-content-sub-header {
+        font-size: 24px;
+        line-height: 1.2;
+    }
+    .frame3-content-description {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+    .our-guarantee-container {
+        margin: 20px;
+        padding: 20px;
+    }
+    .our-guarantee-items {
+        min-width: 150px;
+    }
+    .icon-holder {
+        width: 40px;
+        height: 40px;
+    }
+    .description-header {
+        font-size: 14px;
+    }
+    .description-content {
+        font-size: 11px;
+    }
+    
+    .product-seen-in {
+        padding: 25px 15px;
+        flex-direction: row;
+        gap: 20px;
+    }
+    .seen-in-title {
+        font-size: 18px;
+    }
+    .seen-in-logos {
+        gap: 30px;
+    }
+    .product1-display-container {
+        flex-direction: column;
+        padding: 30px;
+    }
+    .product1-display-image img {
+        max-width: 100%;
+    }
+    .product1-display-content {
+        padding: 15px;
+        font-size: 17px;
+    }
+    .product-title {
+        font-size: 28px;
+    }
+    .flavour-options {
+        flex-direction: column;
+        gap: 10px;
+    }
+    .subscription-kit,
+    .subscription-option-kit {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .subscription-kit .price,
+    .subscription-option-kit .price {
+        align-items: flex-start;
+    }
+    .product1-extra-images-set1 img,
+    .product1-extra-images-set2 img {
+        max-width: 100px;
+    }
+
+    .hima-shilajit-container {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .hima-shilajit-container .content-container {
+        gap: 10px;
+    }
+
+  .subscription-promotion {
+    top: 35%;
+    left: 5%;
+    width: 60%;
+  }
+  .subscribe-promotion-container .subscription-title {
+    top: 10%;
+    left: 5%;
+    font-size: 13px;
+  }
+  .subscription-promotion .title {
+    font-size: 35px;
+  }
+  .subscription-promotion .options {
+    width: 90%;
+  }
+  .morning-ritual-container .morning-ritual-content .title {
+        font-size: 32px;
+    }
+    .morning-ritual-container .morning-ritual-content .sub-title {
+        font-size: 18px;
+    }
+    .points .point .number {
+        font-size: 60px;
+    }
+    .points .point .point-title {
+        font-size: 18px;
+    }
+    .points .point .point-content {
+        font-size: 14px;
+    }
+    .status-container {
+        justify-content: center;
+        padding: 15px;
+        gap: 15px;
+    }
+    .status-container .stats {
+        flex: 1 1 250px;
+        padding: 15px;
+    }
+    .status-container .stats .number {
+        font-size: 36px;
+    }
+    .status-container .stats .stats-title {
+        font-size: 14px;
+    }
+    .why-it-container {
+        flex-direction: column;
+        padding: 15px;
+    }
+    .why-it-container img {
+        max-width: 90%;
+    }
+
+    .from-founder-container {
+        gap: 15px;
+        padding: 15px;
+    }
+
+    .video-image-container img {
+        max-width: 350px;
+    }
+
+    .from-founder-content .title {
+        font-size: 28px;
+    }
+
+    .from-founder-content .message {
+        font-size: 16px;
+    }
+
+    .from-founder-content .title .from-founder-button a {
+        font-size: 16px;
+        padding: 8px 16px;
+    }
+
+    .site-footer {
+        flex-direction: column;
+        align-items: center;
+        gap: 30px;
+    }
+
+    .footer-navigation {
+        align-items: center;
+        text-align: center;
+    }
+
+    .menu-items {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .news-letter .input-container input {
+        width: 100%;
+    }
+}
+
+@media only screen and (min-width: 1025px) {
+
+}
+
