@@ -76,7 +76,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-For any queries or support, please reach out to us through our website.
+Email: shilpgohil@gmail.com
 
 ---
 
